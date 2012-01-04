@@ -36,7 +36,7 @@ class JiraOAuthConnector
         );
 
         $this->config = array(
-            'callbackUrl' => 'http://'.$_SERVER['HTTP_HOST'].$this->callback_url,
+            'callbackUrl' => 'http://'.$_SERVER['HTTP_HOST'].$this->callback_path,
             'siteUrl' => 'http://'.$this->jira_domain.':'.$this->jira_port,
             'requestTokenUrl' => 'http://'.$this->jira_domain.':'.$this->jira_port.'/plugins/servlet/oauth/request-token',
             'accessTokenUrl' => 'http://'.$this->jira_domain.':'.$this->jira_port.'/plugins/servlet/oauth/access-token',
