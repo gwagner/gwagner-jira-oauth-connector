@@ -3,3 +3,5 @@ The purpose of this project is to create a library that can be used for connecti
 For reference on how to setup an API connection, 
 	http://docs.atlassian.com/jira/REST/latest/
 	https://developer.atlassian.com/display/JIRADEV/JIRA+REST+API+Example+-+OAuth+authentication
+	
+This project will continue to evolve while as my development needs grow.  Please feel free to contribute and i will make sure to merge your forked changes into the mainline.
