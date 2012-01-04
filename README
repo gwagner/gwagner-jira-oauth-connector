@@ -1,0 +1,5 @@
+The purpose of this project is to create a library that can be used for connecting a ZF 1.x project to Jira 4.4+ through OAuth and the API.
+
+For reference on how to setup an API connection, 
+	http://docs.atlassian.com/jira/REST/latest/
+	https://developer.atlassian.com/display/JIRADEV/JIRA+REST+API+Example+-+OAuth+authentication
